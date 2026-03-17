@@ -26,7 +26,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rusdyXBT&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rusdyXBT&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rusdyXBT&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusdyXBT&layout=compact&theme=radical" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rusdyXBT&theme=radical" alt="GitHub Streak" />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusdyXBT&layout=compact&theme=radical)
