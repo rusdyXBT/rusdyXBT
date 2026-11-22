@@ -48,8 +48,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusdyXBT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rusdyXBT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rusdyXBT&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+## 🗂️ Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rusdyXBT&theme=tokyonight" alt="Profile Details" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=rusdyXBT&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rusdyXBT&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rusdyXBT&theme=tokyonight" alt="Most Commit Language" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rusdyXBT&theme=tokyonight" alt="Summary Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rusdyXBT&theme=tokyonight&utcOffset=7" alt="Productive Time" />
 </p>
 
 ---
